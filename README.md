@@ -13,8 +13,8 @@ This project aims to predict the bankruptcy status of companies using various ma
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/project.git
-    cd my-project
+    git clone https://github.com/ChristosCSaI/Bankruptcy.git
+    cd Bankruptcy
     ```
 
 2. Install the required packages:
